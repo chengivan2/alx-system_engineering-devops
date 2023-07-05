@@ -4,3 +4,4 @@ The 2-bring_me_home script changes the working directory to the user’s home di
 The 3-listfiles script displays the current directory contents in a long format.
 The 4-listmorefiles sccript displays the current directory contents, including hidden files (starting with .), in the long format.
 The 5-listfilesdigitonly displays the current directory contents in long format, with user and group IDs displayed numerically, and also displays hidden files.
+The 6-firstdirectory script creates a new directory called "my_first_directory" in the /tmp/ directory.
