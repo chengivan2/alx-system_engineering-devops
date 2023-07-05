@@ -11,4 +11,5 @@ The 9-firstdirdeletion script deletes the directory "my_first_directory" from th
 The 10-back script changes the working directory to the previous one.
 The 11-lists script lists all files (even hidden ones) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 The 12-file_type script displays the file type of the file "iamafile" which is in the "/tmp/" directory.
-Th 13_symbolic_link script creates a symbolic link "__ls__" to "/bin/ls" in the current working directory "/0x00-shell_basics".
+The 13_symbolic_link script creates a symbolic link "__ls__" to "/bin/ls" in the current working directory "/0x00-shell_basics".
+The 14-copy_html script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
