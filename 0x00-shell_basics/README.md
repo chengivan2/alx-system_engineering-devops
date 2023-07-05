@@ -6,4 +6,4 @@ The 4-listmorefiles sccript displays the current directory contents, including h
 The 5-listfilesdigitonly displays the current directory contents in long format, with user and group IDs displayed numerically, and also displays hidden files.
 The 6-firstdirectory script creates a new directory called "my_first_directory" in the /tmp/ directory.
 The 7-movethatfile script moves the file "/tmp/betty" to the directory "/tmp/my_first_directory/".
-The 8-firstdelete script deletes the file "/tmp/my_first_directory/betty".
+The 8-firstdelete script deletes the file "/tmp/my_first_directory/betty" using rm.
