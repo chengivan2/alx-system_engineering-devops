@@ -33,3 +33,5 @@ The 100-lets_move script moves all files beginning with an uppercase letter to t
 The 101-clean_emacs script deletes all files in the current working directory that end with the character "~".
 
 The 102-tree script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+The school.mgc file is used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
