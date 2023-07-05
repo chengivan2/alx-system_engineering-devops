@@ -9,3 +9,4 @@ The 7-movethatfile script moves the file "/tmp/betty" to the directory "/tmp/my_
 The 8-firstdelete script deletes the file "/tmp/my_first_directory/betty".
 The 9-firstdirdeletion script deletes the directory "my_first_directory" from the "/tmp/" directory.
 The 10-back script changes the working directory to the previous one.
+The 11-lists script lists all files (even hidden ones) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
