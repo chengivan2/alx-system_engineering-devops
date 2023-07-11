@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$POWER / $DIVIDE\n" | dc
+printf "%s\n" "dc <<< \"${POWER} ${DIVIDE} / p\"" | bash
